@@ -1,4 +1,4 @@
-# Prueba-python-fastAPI
+# Prueba tecnica python fastAPI
 
 ### Instalar FastAPI [FastAPI](https://fastapi.tiangolo.com/es/tutorial/ "FastAPI")
 
