@@ -2,7 +2,9 @@
 
 ### Instalar FastAPI [FastAPI](https://fastapi.tiangolo.com/es/tutorial/ "FastAPI")
 
-#### Para probar el endpoint ejecutar e ir a localhost/docs en el navegador --> http://127.0.0.1:8000/docs
+#### Para probar el endpoint ejecutar en terminal: uvicorn prueba-fastapi:app --reload
+
+Luego ir a localhost/docs en el navegador --> http://127.0.0.1:8000/docs
 
 ### Enunciado
 
