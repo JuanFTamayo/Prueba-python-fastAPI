@@ -40,3 +40,10 @@ primero lleve a cero el otro.
 7. Almacenar en una base de datos el resultado para que en un próximo request busque si ya tengo
 un resultado de dicha batalla y así poder retornar.
 
+## Como se veria
+![fapi 1](https://github.com/JuanFTamayo/Prueba-python-fastAPI/assets/88947668/44a18415-4eae-4e9a-8e39-842fc7f7fc99)
+### Probando el endpoint pikachu vs bulbasaur(mirar responses/server response)
+![fapi 2](https://github.com/JuanFTamayo/Prueba-python-fastAPI/assets/88947668/c3ce4303-0a4f-45b8-9d9f-56f42c153447)
+### Probando con datos erroneos(mirar responses/server response)
+![fapi 3](https://github.com/JuanFTamayo/Prueba-python-fastAPI/assets/88947668/fdae33a8-8d0d-4afc-af9e-f13265d7eb61)
+
